@@ -1,2 +1,3 @@
-# kinc-minecraft-web
+# KINC Minecraft Web
+
 homepage

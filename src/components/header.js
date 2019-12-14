@@ -13,9 +13,9 @@ const Header = ({ siteTitle }) => (
           <Link className="navbar-item" to="/">
             Home
           </Link>
-          <Link className="navbar-item" to="/dynmap">
+          <a className="navbar-item" href="/dynmap">
             Dynmap
-          </Link>
+          </a>
         </div>
       </div>
     </nav>
